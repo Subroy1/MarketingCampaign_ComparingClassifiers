@@ -76,7 +76,3 @@ The business objective is to increase the efficiency of direct marketing campaig
 
 Link to Jupyter Notebook -https://github.com/Subroy1/MarketingCampaign_ComparingClassifiers/blob/main/prompt_III_Assignment17_1.ipynb
 
-
-
-
-Link 
