@@ -11,6 +11,8 @@ The dataset is sourced from the UCI Machine Learning repository, specifically re
 **Key Data Characteristics:**
 *   **Total Contacts:** Originally 79,354, filtered to 41,188 entries. After cleaning duplicates, 41,176 unique entries remain.
 *   **Class Imbalance:** The target variable `Response` is highly imbalanced, with approximately 88.7% 'no' (did not subscribe) and 11.3% 'yes' (subscribed).
+* <img width="569" height="461" alt="image" src="https://github.com/user-attachments/assets/8f5b4295-27d2-4974-a95f-5c8d60bc996e" />
+
 *   **Features:** A mix of numeric and categorical features describing bank client data, temporal data, and social and economic context attributes. For this analysis, only 'bank client data' features were primarily used to avoid data leakage (e.g., 'duration' of the call during telemarketing).
 
 
@@ -70,3 +72,11 @@ The business objective is to increase the efficiency of direct marketing campaig
     *   **Client Portfolio Strength:** For existing customers, the amount of money held idle in accounts could indicate a higher likelihood of opening a deposit.
 
 2.  **Ensemble Models:** Investigate more advanced models like Random Forests(Bagging) or Gradient Boosting that can handle imbalanced datasets better.
+
+
+Link to Jupyter Notebook -https://github.com/Subroy1/MarketingCampaign_ComparingClassifiers/blob/main/prompt_III_Assignment17_1.ipynb
+
+
+
+
+Link 
